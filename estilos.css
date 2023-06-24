@@ -1,0 +1,14 @@
+p{
+    background-color: red;
+    padding: 1rem;
+}
+
+section{
+    background-color: aquamarine;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.arrastrando{
+    opacity: 0.5;
+}
